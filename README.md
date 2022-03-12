@@ -1,5 +1,5 @@
 # SK-RecyclerView-Sederhana-Bag2__JVm
-Arsip Belajar Pemrograman Java (Mobile Android) - Penerapan RecyclerView<br><br>
+Arsip Belajar Pemrograman Java (Mobile Android) - Penerapan RecyclerView. Hosted by <a href="https://www.dicoding.com">Dicoding</a><br><br>
 <img src="https://github.com/RizkyKhapidsyah/SK-RecyclerView-Sederhana-Bag2__JVm/blob/master/app/result/Screenshot_1647015323.png" height=310px width=180px>
 <img src="https://github.com/RizkyKhapidsyah/SK-RecyclerView-Sederhana-Bag2__JVm/blob/master/app/result/Screenshot_1647015363.png" height=310px width=180px>
 <img src="https://github.com/RizkyKhapidsyah/SK-RecyclerView-Sederhana-Bag2__JVm/blob/master/app/result/Screenshot_1647015376.png" height=310px width=180px>
